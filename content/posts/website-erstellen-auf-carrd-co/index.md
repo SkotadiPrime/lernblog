@@ -1,7 +1,7 @@
 +++
 title = "Website erstellen auf carrd.co"
 date = "2022-08-23"
-draft = true
+draft = false
 pinned = false
 tags = ["Website", "Erfahrung", "Ideen"]
 description = "Wir haben eine Website erstellt auf \"Carrd.co\". Es hat uns einen kleinen Einblick gewährt um was es sich handelt."
