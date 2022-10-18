@@ -5,7 +5,7 @@ draft = false
 pinned = false
 tags = ["Canvas", "Businessidee", "Autobranche"]
 image = "wilderswil_17.jpg"
-description = "Canvas über ein Produkt oder Dienstleistung, welches wir uns in 2er Gruppen überlegen müssen."
+description = "Canvas über ein Produkt oder Dienstleistung, welches wir uns in 2er Gruppen überlegen und analysieren müssen."
 footnotes = "*Erstellt von Mohamad, 30.08.2022*\n\nhttps://blog.hubspot.de/hs-fs/hubfs/Germany/Blog_images/business-model-canvas.png?width=600&name=business-model-canvas.png\n\nhttps://www.fse-ag.ch/pic/gallery/Projekt_Neubau_Autogarage_Rueger/wilderswil_17.jpg"
 +++
 Am 23.09.2022 haben wir von unseren WEB Lehrperson Herr Baumberger den Auftrag bekommen einen Canvas (Projektplanung) zu einem Produkt oder eine Dienstleistung zu machen, welches wir selber erstellen und analysieren dürfen.
