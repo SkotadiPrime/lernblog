@@ -14,9 +14,9 @@ Der Auftrag hat in 2er Gruppen stattgefunden, weswegen ich bei diesem Auftrag mi
 
 ![](business-model-canvas.png)
 
-Bei den Bereichen Lösung, Problem, Bestehende Alternativen, Kanäle, Kundensegmente, Unfairer Vorteil, Alleinstellungsmerkmal und Early Adopter konnten wir überall eine Antwort hinschreiben da es einfach war sich eine Idee zu überlegen. Jedoch bei den Bereichen Kosten, Kennzahlen und Einnahmen war es etwas schwierig für uns sich direkt eine schlaue Antwort zu überlegen, da wir nicht genau wussten wieviel die Kosten betragen. Das nächste Mal wollen wir mehr Wert auf Zahlen geben, da dies im Endeffekt entscheidet ob unsere Idee auch im möglichen Rahmen liegt. Wie schon erwähnt ist es recht einfach sich eine Businessidee zu überlegen, denn es wird erst bei der Umsetzung kompliziert, da man schnell in Unmengen Schulden kommen kann und die Gefahr besteht, das sich die Idee nicht durchsetzt.
+Bei den Bereichen Lösung, Problem, Bestehende Alternativen, Kanäle, Kundensegmente, Unfairer Vorteil, Alleinstellungsmerkmal und Early Adopter konnten wir überall eine Antwort hinschreiben da es einfach war sich eine Idee zu überlegen. Jedoch bei den Bereichen Kosten, Kennzahlen und Einnahmen war es etwas schwierig für uns sich direkt eine schlaue Antwort zu überlegen, da wir nicht genau wussten wieviel die Kosten betragen. Das nächste Mal wollen wir mehr Wert auf Zahlen geben, da dies im Endeffekt entscheidet ob unsere Idee auch im möglichen Rahmen liegt. Wie schon erwähnt ist es recht einfach sich eine Businessidee zu überlegen, aber es wird erst bei der Umsetzung kompliziert, da man schnell in Unmengen Schulden kommen kann und die Gefahr besteht, das sich die Idee nicht durchsetzt.
 
-Für das nächste Mal strengen wir uns mehr an eine realistischere Businessidee zu denken und auch die Kosten zu beachten.
+Mein Fazit: Für das nächste Mal strengen wir uns ebenfalls an, um an eine realistischere Businessidee zu denken und auch die hohen Kosten zu beachten.
 
 ![]()
 
