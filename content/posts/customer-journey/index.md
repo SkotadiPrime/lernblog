@@ -4,9 +4,9 @@ date = "2022-12-06"
 draft = false
 pinned = false
 tags = ["CustomerJourney", "IKEA"]
-image = "https://five8.de/wp-content/uploads/2020/12/Customer-Journey-Map-Schematische-Darstellung-einer-Customer-Journey-mit-Logo.jpg"
+image = "customer-journey-mapping.webp"
 description = "Anfang hatte ich mit Berdan (Gruppenmitglied) unsere Präsentation. Danach hat Herr Herr Baumberger, mit uns den \"Customer Journey\" angeschaut und analysiert. Anschliessend haben wir einen Auftrag bekommen, indem wir unseren eigenen Customer Journey skizzieren durften."
-footnotes = "Erstellt von Mohamad Saleh,  06.12.2022\n\nhttps://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.advidera.com%2Fglossar%2Fcustomer-journey%2F&psig=AOvVaw3Bv-aq6OE2VZ1tFZ2ru9rL&ust=1671031598448000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJioz_jz9vsCFQAAAAAdAAAAABAE\n\nhttps://www.bankingclub.de/wp-content/uploads/2018/11/Bankingnews_Customer-Journey_Webinar.png"
+footnotes = "Erstellt von Mohamad Saleh,  06.12.2022\n\nhttps://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.advidera.com%2Fglossar%2Fcustomer-journey%2F&psig=AOvVaw3Bv-aq6OE2VZ1tFZ2ru9rL&ust=1671031598448000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJioz_jz9vsCFQAAAAAdAAAAABAE\n\nhttps://www.bankingclub.de/wp-content/uploads/2018/11/Bankingnews_Customer-Journey_Webinar.png\n\nhttps://images.hiverhq.com/blog/wp-content/uploads/2021/02/tr:pr-true/Customer-Journey-Mapping.png"
 +++
 Am heutigen Tag hatte ich zuerst mit meinem Gruppenpartner eine Präsentation vor der Klasse, indem wir 10-15min unsere Geschäftsidee präsentiert haben. Nach unserer Präsentation wurden wir mit verschiedenen Fragen konfrontiert, was uns für die Weiterentwicklung unserer Idee weitergeholfen hat.
 
