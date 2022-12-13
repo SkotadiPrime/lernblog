@@ -16,17 +16,12 @@ Ich bin dran eine Webseite für einen «Twitch Kanal» zu erstellen. Auf dieser 
 
 Die ersten Codes die man am Anfang lernt, sind zum Beispiel:
 
-\-<html>   (öffnenden Tag)  </html>    (schliessendes Tag)
-
-\-<body>  (Informationen werden nicht im Hauptbereich des Browsers gezeigt)
-
-\-<head>  (zusätzliche Informationen über die Webseite)
-
-\-<img>   (Bild einfügen)
-
-\-<title>   (Titel einfügen)
-
-\-<h2> - <h6>  (für Überschriften)
+* \<html\>   (öffnenden Tag)  </html>    (schliessendes Tag
+* \<body\>  (Informationen werden nicht im Hauptbereich des Browsers gezeigt)
+* \<head\>  (zusätzliche Informationen über die Webseite)
+* \<img\>   (Bild einfügen)
+* \<title\>   (Titel einfügen)
+* \<h2\> - \<h6\>  (für Überschriften)
 
 Jedoch benötigt man viel mehr als diese Codes, denn zunächst muss man diese richtig zusammensetzen und dabei keine Fehler machen, ansonsten besteht das Gefahr, das der ganze Code nicht funktioniert. Das war eines der Umfangreichsten Themen, die wir im Fach Web angeschaut haben, denn es war ein neues Gebiet für mich. Das nächste Mal werde ich aber viel mehr am Programm ausprobieren und auch Gewagtes versuchen, auch wenn das Gefahr besteht, das der Code falsch ist.
 
