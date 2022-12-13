@@ -1,17 +1,35 @@
 +++
-title = "Webseite programmieren (Visual Studio Code)"
+title = "Webseite programmieren (HTML & CSS)"
 date = "2022-11-01"
 draft = false
 pinned = false
-tags = ["html", "webseite", "twitch"]
+tags = ["html", "css", "webseite", "twitch", "codes"]
 image = "visual-studio.png"
-description = "Heute haben wir weiter gemacht mit unserer Webseite zu programmieren. Wir haben noch mit \"main.css\" gearbeitet indem wir Farben für unserer Webseite programmiert haben."
-footnotes = "E﻿rstellt von Mohamad Saleh"
+description = "Heute hat uns unsere WEB Lehrperson gezeigt, wie man Farben auf seiner Webseite einfügt mit main.css. Danach haben wir genug Zeit bekommen selber weiterzuarbeiten an unserer Webseite, indem wir anhand der Webseite \"code.makery.ch\", mit der Anleitung weitergefahren haben."
+footnotes = "E﻿rstellt von Mohamad Saleh, Zuletzt bearbeitet am 13.12.2022"
 +++
-Heute "01.11.2022" haben wir weiter gearbeitet an unserer Webseite, indem uns Herr Baumberger den "main.css" gezeigt hat wie man Farben rein programmiert in unsere Webseite.
 
-Dafür haben wir anhand der Webseite "https://code.makery.ch" die Einleitung gehabt, indem wir von dort anschauen konnten ob wir es auch richtig gemacht haben. Wir programmieren unsere Sachen auf der App "Visual Studio Code)
 
-Für das nächste Mal will noch mehr darüber lernen und meine Seite noch professioneller gestalten.
+Am "01.11.2022" haben wir weiter gearbeitet an unserer Webseite mit HTML (Hypertext Markup Language), und CSS (Cascading Style Sheets), indem wir anhand der Webseite «code.makery.ch», die einzelnen Schritte selbst auf unsere Webseite umgesetzt haben. Auf dieser Webseite ist alles klar und deutlich beschrieben, wie man seine ersten Erfolge beim Programmieren schafft. Die Vorgaben, haben wir auf das Programm «Visual Studio Code» umgesetzt. «Visual Studio Code» ist ein Programm, auf den man programmieren kann und verschiedene Codes und Befehle eingeben kann, welches sich aufeinander bauen.
+
+Ich bin dran eine Webseite für einen «Twitch Kanal» zu erstellen. Auf dieser Webseite sollte man am Schluss alle Informationen über den Kanal finden, sowie die Stream Termine und weitere Informationen über den Stream und den Streamer. Um dies auf die Reihe zu kriegen, benötigt man jedoch verschiedene Codes sowie Zeit und Geduld.
+
+Die ersten Codes die man am Anfang lernt, sind zum Beispiel:
+
+<html>   (öffnenden Tag)  </html>    (schliessendes Tag)
+
+<body>  (Informationen werden nicht im Hauptbereich des Browsers gezeigt)
+
+<head>  (zusätzliche Informationen über die Webseite)
+
+<img>   (Bild einfügen)
+
+<title>   (Titel einfügen)
+
+<h2> - <h6>  (für Überschriften)
+
+Jedoch benötigt man viel mehr als diese Codes, denn zunächst muss man diese richtig zusammensetzen und dabei keine Fehler machen, ansonsten besteht das Gefahr, das der ganze Code nicht funktioniert. Das war eines der Umfangreichsten Themen, die wir im Fach Web angeschaut haben, denn es war ein neues Gebiet für mich. Das nächste Mal werde ich aber viel mehr am Programm ausprobieren und auch Gewagtes versuchen, auch wenn das Gefahr besteht, das der Code falsch ist.
+
+![](code.png)
 
 ![](code-makery.png)
